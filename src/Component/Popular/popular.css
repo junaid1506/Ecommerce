@@ -39,6 +39,11 @@
     }
 }
 @media(max-width:500px){
+
+
+    .popular h2{
+        font-size: 2rem;
+    }
     .popular{
 
         gap: 10px;

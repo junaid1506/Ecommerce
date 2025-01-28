@@ -45,6 +45,9 @@
     }
 }
 @media(max-width:500px){
+    .newCollection h2{
+        font-size: 2rem;
+    }
     .newCollection{
 
         gap: 10px;
